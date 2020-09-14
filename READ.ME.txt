@@ -1,0 +1,41 @@
+## Exercicio 1
+
+- Para a realização do exercicíos 1, utilizei como base os ensinamentos aprensentados nas vídeo aulas abaixo:
+
+https://www.youtube.com/watch?v=Q8eajxcS6dQ
+https://www.youtube.com/watch?v=wQ8BIBpya2k
+
+- Prossegui com o desenvolvimento do exercício 1 e notei que grande parte do funcionamento trabalhava com probabilidade
+e porcentagem, ou seja, com base nessas duas informações era possível identificar oque era verdadeiro ou falso.
+
+- Vi também que era possível armazenar esses dados de probabilidade em vetores e utilizando números bínarios (booleano)
+conseguimos validar o número apresentado com a maior porcentagem de pontos semelhantes.
+
+- O código em si funciona como uma rede neural e imagens separadas por quadrantes (pixels), assim podendo identificar
+as células que possuem uma tonalidade diferente de branco e comparando com o númeral.
+
+## Exercicio 2
+
+- Para a realização do exercicío 2, utilizei como base os ensinamentos apresentados na vídeo aula abaixo:
+
+https://www.youtube.com/watch?v=bX5NrUWHqyo
+
+- Tendo o vídeo como base, pensei na criação de uma API em forma de barra de pesquisa, em que o usuário pudesse buscar
+a classe da imagem, inserindo o código de base64 no campo identificado.
+
+- Caso nada fosse inserido, uma mensagem de erro seria exibida na tela.
+
+## Exercicio 3
+
+- Os arquivos do exercício 3 no github são, conexao.py e main.py que são utilizados para conectar o mysql com o python
+e o script_cricao_tabela.sql é o arquivo da criacao da tabela em que o usuario ira armazenar as informações (Coloquei um
+Insert no código como exemplo dos dados que serão inseridos).
+
+- Para a realização do exercicío 3, utilizei como base os ensinamentos apresentados na vídeo aula abaixo:
+
+https://www.youtube.com/watch?v=IicOnN6t-Xs&t=363s
+
+- Com essa aula, consegui identificar uma semelhança na linguagem de python com PHP, o qual ja tinha
+um pouco de conhecimento;
+
+- Para vincular o banco de dados com o HTML é utilizado o PHP;
